@@ -1,0 +1,83 @@
+.main1{
+    background-color: blue;
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    z-index: 1;
+    
+   
+}
+.main2{
+    background-color: rgb(219, 219, 236);
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    margin-left: 50%;
+    z-index: 1;
+}
+.main3{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    position: absolute;
+    width: 90%;
+    height: 90%;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    margin-left: 40px;
+    z-index: 2;
+}
+.main4{
+    background-color: rgb(55, 58, 216);
+    border-radius: 50%;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    margin-left: 160px;
+    margin-top: 150px;
+    
+    z-index: 6; 
+}
+.main5{
+    background-color: rgb(163, 164, 230);
+    border-radius: 50%;
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    margin-left: 110px;
+    margin-top: 100px;
+    
+    z-index: 5; 
+}
+.main6{
+    background-color: rgb(169, 170, 231);
+    border-radius: 50%;
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    margin-left: 55px;
+    margin-top: 50px;
+    z-index: 4; 
+}
+.cir{
+    position: absolute;
+    margin-left: 60px;
+    margin-top: 120px;
+}
+.main7{
+    background-color: rgb(241, 244, 248);
+    border-radius: 20px;
+    position: absolute;
+    width: 400px;
+    height: 250px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    margin-top: 290px;
+    margin-left: 170px;
+    z-index: 7;
+}
+    
+
+
+
+
